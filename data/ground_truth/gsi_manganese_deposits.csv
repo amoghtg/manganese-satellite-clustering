@@ -1,0 +1,18 @@
+deposit_id,name,latitude,longitude,formation,ore_type,mn_grade_pct,deposit_class,status,source
+GSI_MN_001,Bharweli (Balaghat Mine),21.8950,80.2050,Sausar Group (Mansar Formation),Braunite-Pyrolusite,46.5,High Grade,Active Mine,GSI / MOIL Records
+GSI_MN_002,Ukwa Mine,21.9700,80.4680,Sausar Group (Mansar Formation),Braunite-Hollandite,42.0,High Grade,Active Mine,GSI Mineral Inventory
+GSI_MN_003,Dongri Buzurg Mine,21.5540,79.6830,Sausar Group (Mansar Formation),Pyrolusite-Cryptomelane,44.8,High Grade,Active Mine,GSI / MOIL Records
+GSI_MN_004,Tirodi Mine,21.6850,79.7020,Sausar Group (Mansar Formation),Braunite-Bixbyite,38.5,Medium Grade,Active Mine,GSI Mineral Inventory
+GSI_MN_005,Mansar Mine,21.4010,79.2810,Sausar Group (Mansar Formation),Braunite-Gondite,40.2,Medium Grade,Active Mine,GSI / MOIL Records
+GSI_MN_006,Kandri Mine,21.4230,79.2730,Sausar Group (Mansar Formation),Braunite,41.0,Medium Grade,Active Mine,GSI / MOIL Records
+GSI_MN_007,Gumgaon Mine,21.4150,79.2450,Sausar Group (Mansar Formation),Braunite-Hausmannite,39.0,Medium Grade,Active Mine,GSI / MOIL Records
+GSI_MN_008,Chikla Mine,21.5470,79.7480,Sausar Group (Mansar Formation),Braunite-Pyrolusite,43.2,High Grade,Active Mine,GSI / MOIL Records
+GSI_MN_009,Sitasaongi Mine,21.5280,79.7550,Sausar Group (Mansar Formation),Braunite-Hollandite,37.8,Medium Grade,Active Mine,GSI Mineral Inventory
+GSI_MN_010,Ramrama Deposit,21.8600,79.9100,Sausar Group (Mansar Formation),Pyrolusite-Psilomelane,35.0,Medium Grade,Prospect,GSI Exploration Report
+GSI_MN_011,Shivarajpur Prospect,21.7200,79.8500,Sausar Group (Mansar Formation),Supergene Ferromanganese,31.5,Low-Medium Grade,Occurrence,GSI Records
+GSI_MN_012,Gagpur Ferromanganese,21.6100,79.6200,Sausar Group (Mansar Formation),Manganiferous Gondite,28.0,Low Grade,Occurrence,GSI Records
+CTRL_BG_001,Wainganga Alluvial Basin,21.7800,80.1200,Quaternary Alluvium,Non-mineralized,0.2,Non-deposit,Barren Control,GSI Geological Map
+CTRL_BG_002,Seoni Granite Gneiss,21.9500,79.5500,Tirodi Biotite Gneiss,Granite Gneiss,0.1,Non-deposit,Barren Control,GSI Geological Map
+CTRL_BG_003,Kanhan Sandstone Ridge,21.3200,79.1500,Gondwana Supergroup,Quartz Arenite Sandstone,0.05,Non-deposit,Barren Control,GSI Geological Map
+CTRL_BG_004,Lalbarra Agricultural Plain,21.9200,80.0100,Quaternary Regolith,Cultivated Loam,0.1,Non-deposit,Barren Control,GSI Geological Map
+CTRL_BG_005,Bhandara Deccan Trap Basalt,21.2500,79.7500,Deccan Volcanic Province,Tholeiitic Basalt,0.15,Non-deposit,Barren Control,GSI Geological Map

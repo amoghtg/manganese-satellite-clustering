@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Large runtime caches
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/

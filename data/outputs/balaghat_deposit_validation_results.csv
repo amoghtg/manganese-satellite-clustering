@@ -1,0 +1,12 @@
+deposit_id,name,latitude,longitude,formation,ore_type,mn_grade_pct,deposit_class,status,source,pixel_col,pixel_row,is_deposit,sampled_cluster,sampled_likelihood,dist_to_target_km,exact_hit,hit_250m,hit_500m,hit_1000m,hit_2000m,predicted_target
+GSI_MN_001,Bharweli (Balaghat Mine),21.895,80.205,Sausar Group (Mansar Formation),Braunite-Pyrolusite,46.5,High Grade,Active Mine,GSI / MOIL Records,335,141,1,0,0.85,0.0,1,1,1,1,1,1
+GSI_MN_002,Ukwa Mine,21.97,80.468,Sausar Group (Mansar Formation),Braunite-Hollandite,42.0,High Grade,Active Mine,GSI Mineral Inventory,481,73,1,0,0.85,0.0,1,1,1,1,1,1
+GSI_MN_003,Dongri Buzurg Mine,21.554,79.683,Sausar Group (Mansar Formation),Pyrolusite-Cryptomelane,44.8,High Grade,Active Mine,GSI / MOIL Records,46,450,1,0,0.85,0.0,1,1,1,1,1,1
+GSI_MN_004,Tirodi Mine,21.685,79.702,Sausar Group (Mansar Formation),Braunite-Bixbyite,38.5,Medium Grade,Active Mine,GSI Mineral Inventory,57,331,1,0,0.85,0.0,1,1,1,1,1,1
+GSI_MN_008,Chikla Mine,21.547,79.748,Sausar Group (Mansar Formation),Braunite-Pyrolusite,43.2,High Grade,Active Mine,GSI / MOIL Records,82,456,1,-1,0.0,0.435,0,0,1,1,1,1
+GSI_MN_009,Sitasaongi Mine,21.528,79.755,Sausar Group (Mansar Formation),Braunite-Hollandite,37.8,Medium Grade,Active Mine,GSI Mineral Inventory,86,474,1,0,0.85,0.0,1,1,1,1,1,1
+GSI_MN_010,Ramrama Deposit,21.86,79.91,Sausar Group (Mansar Formation),Pyrolusite-Psilomelane,35.0,Medium Grade,Prospect,GSI Exploration Report,172,172,1,-1,0.0,2.287,0,0,0,0,0,0
+GSI_MN_011,Shivarajpur Prospect,21.72,79.85,Sausar Group (Mansar Formation),Supergene Ferromanganese,31.5,Low-Medium Grade,Occurrence,GSI Records,139,299,1,1,0.15,0.0,1,1,1,1,1,1
+GSI_MN_012,Gagpur Ferromanganese,21.61,79.62,Sausar Group (Mansar Formation),Manganiferous Gondite,28.0,Low Grade,Occurrence,GSI Records,11,399,1,1,0.15,0.0,1,1,1,1,1,1
+CTRL_BG_001,Wainganga Alluvial Basin,21.78,80.12,Quaternary Alluvium,Non-mineralized,0.2,Non-deposit,Barren Control,GSI Geological Map,288,245,0,-1,0.0,1.032,0,0,0,0,1,0
+CTRL_BG_004,Lalbarra Agricultural Plain,21.92,80.01,Quaternary Regolith,Cultivated Loam,0.1,Non-deposit,Barren Control,GSI Geological Map,227,118,0,1,0.15,0.0,1,1,1,1,1,1
